@@ -70,6 +70,15 @@ background: #E42A42;
 
 ## Jawab Pertanyaan Berikut
 1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada 
-kode CSS dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
-Berikut ini hasil eksperimennya
-![IMG](SS/SS7.png)
+kode CSS dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini. <br />
+Berikut ini hasil eksperimen :
+![IMG](SS/SS7.png) <br />
+2. Apa perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}? berikan
+penjelasannya!
+```
+Jika `h1 {...}` maka akan merubah semua bagian dari elemen h1, sedangkan `#intro h1 {...}` akan merubah bagian yang memiliki tag Intro. 
+```
+
+
+
+
