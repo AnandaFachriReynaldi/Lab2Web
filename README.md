@@ -68,3 +68,8 @@ background: #E42A42;
 ```
 ![Step6](SS/SS6.png)
 
+## Jawab Pertanyaan Berikut
+1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada 
+kode CSS dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
+Berikut ini hasil eksperimennya
+![IMG](SS/SS7.png)
