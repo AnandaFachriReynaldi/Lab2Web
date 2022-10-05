@@ -76,9 +76,13 @@ Berikut ini hasil eksperimen :
 2. Apa perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}? berikan
 penjelasannya!
 ```
-Jika `h1 {...}` maka akan merubah semua bagian dari elemen h1, sedangkan `#intro h1 {...}` akan merubah bagian yang memiliki tag Intro. 
+Jika h1 {...} maka akan merubah semua bagian dari elemen h1, sedangkan #intro h1 {...} akan merubah bagian yang memiliki tag Intro. 
 ```
-
-
-
-
+3. Apabila ada deklarasi CSS secara internal, lalu ditambahkan CSS eksternal dan inline CSS pada
+elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser? Berikan
+penjelasan dan contohnya!<br />
+Di bawah ini terlampir contoh coding yang memiliki deklarasi CSS internal, CSS eksternal dan CSS inline
+![IMG](SS/SS8.png) <br />
+Hasilnya sebagai berikut : <br />
+![IMG](SS/SS9.png) <br />
+Deklarasi yang ditampilkan pada browser adalah CSS internal dan CSS inline <br />
