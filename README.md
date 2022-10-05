@@ -7,3 +7,8 @@
 ![Step1](SS/SS1.png)
 2. Menambahkan deklarasi CSS Internal pada bagian head dokumen
 ![Step2](SS/SS2.png)
+3. Menambahkan deklarasi Inline CSS pada tag `<p>`
+```
+<p style="text-align: center; color: #ccd8e4;">
+```
+![Step3](SS/SS3.png)
