@@ -91,7 +91,10 @@ Hasilnya sebagai berikut : <br />
 Deklarasi yang ditampilkan pada browser adalah CSS internal dan CSS inline karena lebih spesifik. <br />
 4. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut
 terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser?
-Berikan penjelasan dan contohnya! ( <p id="paragraf-1" class="text-paragraf"> )
+Berikan penjelasan dan contohnya! 
+```
+<p id="paragraf-1" class="text-paragraf">
+```
 Jawaban :<br />
 Berikut ini penambahan elemen ID dan Class
 ![IMG](SS/SS10.png) <br />
